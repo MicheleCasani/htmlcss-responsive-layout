@@ -28,4 +28,13 @@
     .recipe-name, .recipe-origin{
         font-size: 30px;
     }
+
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes li{
+        width: 30%;
+    }
 }
