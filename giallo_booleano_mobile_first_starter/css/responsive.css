@@ -47,5 +47,15 @@
     }
     .clearfix img{
         float: left;
+        margin-right: 10px;
     }
 }
+
+/* desktop version */
+
+@media screen and (min-width: 992px){
+    .recipe-name, .recipe-origin{
+        font-size: 40px;
+    }
+}
+
