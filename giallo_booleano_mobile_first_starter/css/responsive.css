@@ -1,15 +1,14 @@
 /* Soluzione qui */
 
-/* versione mobile */
+/* fix mobile version */
 
- 
  .recipe-video img{
     width: 100%;
     height: 100%;
     object-fit: cover;
  }
 
-/* versione tablet */
+/* tablet version */
 
 @media screen and (min-width: 768px) {
 
@@ -91,6 +90,10 @@
 
     address{
         text-align: left;
+    }
+
+    .recipe-info{
+        width: 35%;
     }
 }
 
