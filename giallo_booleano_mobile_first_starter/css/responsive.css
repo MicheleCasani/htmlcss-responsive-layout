@@ -45,4 +45,7 @@
     .ads{
         display: inline-block;
     }
+    .clearfix img{
+        float: left;
+    }
 }
