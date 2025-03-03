@@ -94,4 +94,11 @@
     }
 }
 
+/* bonus 576px */
 
+@media screen and (min-width: 576px){
+
+    .btn{
+        padding: 10px 35px;
+    }
+}
