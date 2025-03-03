@@ -74,5 +74,14 @@
     .quick-notes li{
         width: 100%;
     }
+
+    .social-networks .label{
+        display: inline-block
+    }
+
+    .btn{
+        padding: 10px 30px;
+    }
+
 }
 
