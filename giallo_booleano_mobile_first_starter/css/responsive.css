@@ -61,5 +61,18 @@
     .quick-notes ul{
         display: block;
     }
+
+    .recipe-card{
+        display: flex;
+    }
+
+    .recipe-video{
+        width: 65%;
+    }
+
+
+    .quick-notes li{
+        width: 100%;
+    }
 }
 
