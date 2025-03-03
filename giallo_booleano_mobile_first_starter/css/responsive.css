@@ -2,13 +2,12 @@
 
 /* versione mobile */
 
-@media screen and (max-width: 767px) {
+ 
  .recipe-video img{
     width: 100%;
     height: 100%;
     object-fit: cover;
  }
-}
 
 /* versione tablet */
 
@@ -16,5 +15,9 @@
 
     #topbar{
         justify-content: left;
+    }
+
+    main{
+        padding: 40px;
     }
 }
