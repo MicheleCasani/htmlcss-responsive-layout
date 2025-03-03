@@ -42,5 +42,7 @@
         padding: 10px 50px;
     }
 
-    
+    .ads{
+        display: inline-block;
+    }
 }
