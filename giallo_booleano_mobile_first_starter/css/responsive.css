@@ -101,4 +101,9 @@
     .btn{
         padding: 10px 35px;
     }
+
+    .clearfix img{
+        float: left;
+        margin-right: 10px;
+}
 }
